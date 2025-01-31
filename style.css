@@ -750,9 +750,9 @@ span.separator.center {
 	color: #148914;
 }
 .project-holder span:hover {
-	color: #fff;
+	color: #fff;  
 }
-.project-holder img {
+.project-holder img video{
 	width: 100%;
 }
 .project-holder h2 {
